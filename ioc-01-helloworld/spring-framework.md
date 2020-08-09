@@ -1,5 +1,5 @@
 ## spring-framework
-1. [官网地址](https://docs.spring.io/spring-framework/docs/current/spring-framework-reference/core.html)  
+1. 官网地址 `https://docs.spring.io/spring-framework/docs/current/spring-framework-reference/core.html`  
 2. 使用SpringMvc的依赖测试IOC  
 ```xml
 <dependency>
